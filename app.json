@@ -1,0 +1,18 @@
+{
+    "name": "vvm",
+    "description": "",
+    "keywords": ["vvm"],
+    "env": {
+        "ID": {
+            "description": "UUID",
+            "value": "3b4a9149-ac3e-42e9-9d62-db7e4a305629"
+        },
+        "WSPATH": {
+            "description": "WebSocket Path",
+            "value": "/"
+        }
+    },
+    "website": "https://ibcl.us/Heroku-V2Ray_20191014/",
+    "repository": "https://github.com/tianheren1980/vvm.git",
+    "stack": "container"
+}
